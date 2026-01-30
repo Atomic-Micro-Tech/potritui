@@ -13,3 +13,6 @@ pnpm-debug.log*
 *.log
 *.tsbuildinfo
 config.json
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
